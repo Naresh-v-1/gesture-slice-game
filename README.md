@@ -90,5 +90,4 @@ All video processing happens locally in the browser. No frame, image, or hand-tr
 
 - [ ] Two-player split-screen mode
 - [ ] Persistent leaderboard (needs a backend/database — high score is currently session-only)
-- [ ] More gestures (pinch to grab, fist to freeze fruit)
 - [ ] Difficulty presets / custom game length
